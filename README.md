@@ -4,7 +4,6 @@
 ## Team Members
 - Chandan Abhishek Muchukota
 - Vennela Priya Penumuchu
-
 ## What is Working
 - **Gossip Algorithm**:
   - The rumor propagation algorithm works as expected, where actors select random neighbors to spread the rumor.
@@ -31,16 +30,16 @@
 For each algorithm and topology, the largest network size that the system could handle before performance degradation is noted below:
 
 - **Gossip Algorithm**:
-  - **Full Network**: Tested with up to [X] nodes.
-  - **3D Grid**: Tested with up to [X] nodes.
-  - **Line**: Tested with up to [X] nodes.
-  - **Imperfect 3D Grid**: Tested with up to [X] nodes.
+  - **Full Network**: Tested with up to **10,000 nodes**.
+  - **3D Grid**: Tested with up to **10,000 nodes**.
+  - **Line**: Tested with up to **10,000 nodes**.
+  - **Imperfect 3D Grid**: Tested with up to **10,000 nodes**.
 
 - **Push-Sum Algorithm**:
-  - **Full Network**: Tested with up to [X] nodes.
-  - **3D Grid**: Tested with up to [X] nodes.
-  - **Line**: Tested with up to [X] nodes.
-  - **Imperfect 3D Grid**: Tested with up to [X] nodes.
+  - **Full Network**: Tested with up to **10,000 nodes**.
+  - **3D Grid**: Tested with up to **10,000 nodes**.
+  - **Line**: Tested with up to **10,000 nodes**.
+  - **Imperfect 3D Grid**: Tested with up to **10,000 nodes**.
 
 ## Instructions for Running
 
